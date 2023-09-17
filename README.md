@@ -32,14 +32,10 @@ The script generates random odd numbers of the desired bit length and tests them
 
 ## Limitations
 
-1. The script is designed for educational purposes. For production-grade applications, especially with stringent performance or security requirements, relying on well-established libraries is recommended.
+1. The script is designed for personal use. For production-grade applications, especially with stringent performance or security requirements, relying on well-established libraries is recommended.
    
 2. Python's built-in arbitrary precision arithmetic is used, which is slower than optimized libraries like GMP.
 
 ## Contributing
 
 Feel free to fork this repository, make your enhancements, and submit pull requests.
-
-## License
-
-This project is open-source and available under the MIT License. See the `LICENSE` file for more information.
